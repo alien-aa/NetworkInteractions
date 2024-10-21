@@ -1,4 +1,4 @@
-# network_interactions
+# NetworkInteractions
 Implementation of network sockets (TCP, UDP).
 
 This repository contains materials on a practical task dedicated to studying the programming interface of network sockets, gaining skills in organizing program interaction using Internet protocols and developing application network services.
